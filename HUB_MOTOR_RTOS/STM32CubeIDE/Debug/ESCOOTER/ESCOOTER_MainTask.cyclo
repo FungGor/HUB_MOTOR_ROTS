@@ -1,0 +1,8 @@
+ESCOOTER_MainTask.c:26:6:ESboot	1
+ESCOOTER_MainTask.c:57:6:ESCOOTER_DriveModeConfig	1
+ESCOOTER_MainTask.c:65:6:ESCOOTER_InputThrottleSignal	1
+ESCOOTER_MainTask.c:77:6:ESCOOTER_InputBrakeSignal	1
+ESCOOTER_MainTask.c:87:6:ESCOOTER_DEBUG_CancelBrakeSignal	1
+ESCOOTER_MainTask.c:95:6:ESCOOTER_IsCarReady	1
+ESCOOTER_MainTask.c:111:13:ESCOOTER_StateMachineHighFrequencyTask	10
+ESCOOTER_MainTask.c:188:6:ESCOOTER_ParameterMonitoring	1

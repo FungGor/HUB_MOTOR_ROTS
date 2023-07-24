@@ -1,0 +1,5 @@
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/MCSDK_v5.4.8/MotorControl/MCSDK/MCLib/Any/Src/r_divider_bus_voltage_sensor.c:65:13:RVBS_Clear	4	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/MCSDK_v5.4.8/MotorControl/MCSDK/MCLib/Any/Src/r_divider_bus_voltage_sensor.c:50:13:RVBS_Init	8	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/MCSDK_v5.4.8/MotorControl/MCSDK/MCLib/Any/Src/r_divider_bus_voltage_sensor.c:208:17:RVBS_CheckFaultState	0	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/MCSDK_v5.4.8/MotorControl/MCSDK/MCLib/Any/Src/r_divider_bus_voltage_sensor.c:126:17:RVBS_CalcAvVbusFilt	32	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/MCSDK_v5.4.8/MotorControl/MCSDK/MCLib/Any/Src/r_divider_bus_voltage_sensor.c:167:17:RVBS_CalcAvVbus	16	static

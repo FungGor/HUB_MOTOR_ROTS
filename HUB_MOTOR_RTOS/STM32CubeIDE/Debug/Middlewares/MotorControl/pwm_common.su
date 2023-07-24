@@ -1,0 +1,2 @@
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/MCSDK_v5.4.8/MotorControl/MCSDK/MCLib/Any/Src/pwm_common.c:76:13:startTimers	8	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/MCSDK_v5.4.8/MotorControl/MCSDK/MCLib/Any/Src/pwm_common.c:108:13:waitForPolarizationEnd	16	static

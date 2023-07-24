@@ -1,0 +1,9 @@
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/Src/motor_control_protocol.c:173:13:MCP_ReceivedFrame	80	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/Src/motor_control_protocol.c:140:13:MCP_WaitNextFrame	8	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/Src/motor_control_protocol.c:103:13:MCP_Init	24	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/Src/motor_control_protocol.c:130:13:MCP_OnTimeOut	8	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/Src/motor_control_protocol.c:155:13:MCP_SentFrame	8	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/Src/motor_control_protocol.c:746:13:MCP_SendOverrunMessage	16	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/Src/motor_control_protocol.c:757:13:MCP_SendTimeoutMessage	16	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/Src/motor_control_protocol.c:768:13:MCP_SendATRMessage	64	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/Src/motor_control_protocol.c:809:13:MCP_SendBadCRCMessage	16	static

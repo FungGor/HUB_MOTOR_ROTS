@@ -1,0 +1,2 @@
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/MCSDK_v5.4.8/MotorControl/MCSDK/MCLib/Any/Src/digital_output.c:44:13:DOUT_SetOutputState	0	static
+C:/Users/TerenceLeung/Documents/STM32_Prototyping/ESCOOTER_CONTROL_RTOS/HUB_MOTOR_RTOS/MCSDK_v5.4.8/MotorControl/MCSDK/MCLib/Any/Src/digital_output.c:74:23:DOUT_GetOutputState	0	static

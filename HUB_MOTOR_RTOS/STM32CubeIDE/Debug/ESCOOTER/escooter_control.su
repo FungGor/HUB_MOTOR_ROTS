@@ -1,0 +1,2 @@
+../ESCOOTER/escooter_control.c:16:13:ESCOOTER_init	0	static
+../ESCOOTER/escooter_control.c:21:13:ESCOOTER_RunCoreTask	64	static
